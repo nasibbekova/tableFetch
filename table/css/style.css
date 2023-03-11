@@ -1,0 +1,66 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+h1 {
+    display: flex;
+    text-align: left;
+    padding-top: 50px;
+}
+
+form {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+table {
+    width: 80%;
+    margin: 0 auto;
+}
+
+table th {
+    text-align: start;
+}
+
+thead th {
+    color: gray;
+}
+
+input {
+    border-radius: 8px;
+    height: 40px;
+    text-align: left;
+    border-color: #cabcbc;
+}
+
+.button {
+    border-radius: 8px;
+    width: 100px;
+    height: 40px;
+    border-color: blue;
+    background-color: #000fff;
+    color: #fff;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+.del{
+    all: unset;
+    width: 20%;
+    height: 20%;
+
+}
+
+.edit{
+    all: unset;
+    width: 20%;
+    height: 20%;
+
+}
+
